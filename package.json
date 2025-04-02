@@ -16,5 +16,12 @@
   },
   "devDependencies": {
     "typescript": "^5.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajinkya-cs/nestjs-mongo-multi-tenancy.git"
+  },
+  "author": "Ajinkya Muley",
+  "license": "MIT",
+  "keywords": ["nestjs", "mongoose", "multi-tenancy", "mongodb"]
 }
