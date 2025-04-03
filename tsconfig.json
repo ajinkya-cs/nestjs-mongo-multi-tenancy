@@ -1,7 +1,13 @@
 {
   "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES6",
     "outDir": "./dist",
     "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
     "declaration": true,
     "declarationMap": true,
     "emitDeclarationOnly": false
