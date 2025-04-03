@@ -1,6 +1,6 @@
 {
   "name": "nestjs-mongo-multi-tenancy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A plug-and-play NestJS package for MongoDB multi-tenancy using Mongoose.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
